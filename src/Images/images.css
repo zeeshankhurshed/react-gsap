@@ -44,6 +44,10 @@
         width: 120px;
         height: 150px;
     }
+    .images .box1 img{
+        width: 120px;
+        height: 150px;
+    }
     .images .box2{
         position: absolute;
         top: 9rem;
@@ -51,10 +55,18 @@
         width: 160px;
         height: 200px;
     }
+    .images .box2 img{
+        width: 160px;
+        height: 200px;
+    }
     .images .box3{
         position: absolute;
         top:14.5rem;
         right: 20px;
+        width: 160px;
+        height: 200px;
+    }
+    .images .box3 img{
         width: 160px;
         height: 200px;
     }
